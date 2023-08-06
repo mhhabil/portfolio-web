@@ -94,7 +94,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Redis</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <a href="https://www.emr.gic-indonesia.com/" target={"_blank"} rel="noreferrer">
+                <a href="https://emr.gic-indonesia.com/" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={""} router={router} />
                 </a>
               </div>
